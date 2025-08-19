@@ -1,0 +1,16 @@
+COLFILE 0 data\maps\projectprops.col
+IMG data\maps\projectprops.img
+
+IDE data\maps\ProjectProps.ide
+
+IPL data\maps\LSprops.ipl
+IPL data\maps\CSprops.ipl
+IPL data\maps\SFprops.ipl
+IPL data\maps\LVprops.ipl
+
+# Enable weeds if you want them
+# Might decrease FPS, even 30 or more sometimes
+#IPL data\maps\weeds.ipl
+
+# Enable if you want props for connected
+#IPL data\maps\ppGTAMixed.ipl
