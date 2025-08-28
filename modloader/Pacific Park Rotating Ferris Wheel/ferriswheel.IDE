@@ -1,0 +1,6 @@
+objs
+14647, ferriswheel_base, ferriswheel_lights, 299, 0
+14646, ferriswheel_lights, ferriswheel_lights, 299, 12
+14644, ferriswheel_wheel, ferriswheel_wheel, 299, 0
+14645, ferriswheel_seat, ferriswheel_seat, 299, 4
+end

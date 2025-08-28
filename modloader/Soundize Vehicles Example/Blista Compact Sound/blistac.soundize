@@ -1,0 +1,6 @@
+version 1
+
+vehicle
+# Definition	# Bank name				Volume		RPM min		RPM max		RPM gear	RPM up		RPM down	Gear time (ms)	Backfire (ms)
+<filename> 		"ks_toyota_ae86"		1.0			1800		7300		7200        50			100			1000		   	1000
+end

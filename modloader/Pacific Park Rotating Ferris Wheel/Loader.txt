@@ -1,0 +1,8 @@
+IDE DATA/MAPS/ferriswheel.IDE
+COLFILE 0 DATA/MAPS/ferriswheel.col
+
+Author: Zeneric.
+
+Thanks:
+Jessica_Natalia (Rotating Ferris Wheel - https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/ )
+Junior_Djjr (rotating Ferris Wheel - https://www.mixmods.com.br/2022/02/rotating-ferris-wheel-roda-gigante-animada-do-gta-v/ )

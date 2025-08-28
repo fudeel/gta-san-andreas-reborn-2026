@@ -1,0 +1,93 @@
+Sound_007 -  PISTOL              +++ Sample rate 48100
+Sound_090 -  FIRE 
+Sound_009 -  DISTANT
+
+sound_025 -  SILENCED            +++ Sample rate 48100      
+sound_091 -  FIRE
+Sound_092 -  DISTANT
+
+sound_027 -  DESERT_EAGLE        +++ Sample rate 48100
+sound_093 -  FIRE
+sound_094 -  DISTANT
+
+sound_022 -  SHOTGUN             +++ Sample rate 48100
+sound_095 -  FIRE
+sound_024 -  DISTANT
+
+sound_023 -  SAWN_OFF            +++ Sample rate 48100
+sound_096 -  FIRE
+sound_097 -  DISTANT
+
+sound_026 -  SPAS_12             +++ Sample rate 48100
+sound_098 -  FIRE
+sound_099 -  DISTANT
+
+sound_001 -  MICRO_UZI           +++ sample rate 48100
+sound_100 -  FIRE
+sound_101 -  DISTANT
+
+sound_018 -  SMG                 +++ sample rate 48100
+sound_102 -  FIRE
+sound_003 -  DISTANT
+
+sound_004 -  AK_47               +++ sample rate 48100
+sound_103 -  FIRE
+sound-006 -  DISTANT
+ 
+sound_005 - M4                   +++ sample rate 48100
+sound_104 - FIRE
+sound_105 - DISTANT
+
+sound_002 - TEC9                 +++ sample rate 48100
+sound_106 - FIRE
+sound_107 - DISTANT
+
+sound_008 - COUNTRYRIFLE         +++ sample rate 48100
+sound_108 - FIRE                 
+sound_109 - DISTANT
+
+sound_028 - SNIPER_RIFLE         +++ sample rate 48100
+sound_110 - FIRE
+sound_111 - DISTANT
+
+sound_019 - ROCKET_LAUNCHER      +++ sample rate 48100
+sound_112 - FIRE
+sound_113 - DISTANT                         (unused)
+
+NEW
+
+sound_114 - ROCKET_LAUNCHER_HS     +++ sample rate 48100
+sound_115 - FIRE
+sound_116 - DISTANT                         (unused)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Reload sounds ID's (not changed id's) 
+
+a= Sound name
+
+b= Weapon
+
+c= Sound description
+
+d= Sample rate
+
+-----a-------b--------------------------------c---------------------d----------------------
+
+sound_032  AK_47 - M4                       Removed mag           +++ sample rate is now 48100
+
+sound_033  AK_47 - M4 - sniper -cuntgun     Slide                 +++ sample rate is now 48100
+
+sound_052  DESER_EAGLE                      Slide                 +++ sample rate is now 48100
+
+sound_056  DESERT_EAGLE - COLT_45           Removed mag           +++ sample rate is now 48100
+
+sound_067  COLT45                           Slide                 +++ sample rate is now 48100                     
+
+sound_072  SPAS_12                          Insert shell          +++ sample rate is now 48100
+
+sound_073  SPAS_12 - CHROMEGUN              Pumping               +++ sample rate is now 48100     
+
+sound_085  MICRO_UZI - SMG - TEC9           Removed mag           +++ sample rate is now 48100
+
+sound_086  MICRO_UZI - SMG - TEC9           Slide                 +++ sample rate is now 48100
